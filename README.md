@@ -1,6 +1,7 @@
 # stargazer
 
-This is the reproducibility package of Stargazer. 
+This is the reproducibility package of the paper Stargazer: A Deep Learning Approach for Estimating the Performance of Edge-Based Clustering Applications. 
+
 
 ## items in this repository
 This repository contains the following:
